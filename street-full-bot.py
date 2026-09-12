@@ -260,7 +260,7 @@ PRODUCTS = {
     "qazili":{"name":"🌭 Qazili Hot-Dog","desc":"Mo'l-ko'l qazi, tuxum va maxsus sous bilan.",
               "sizes":[("2x-Katta",30000),("Katta",25000),("O'rtacha",20000),("Kichkina",15000)]},
     "salatli":{"name":"🌭 Salatli Hot-Dog","desc":"Yangi sabzavotlar, pomidor sousi va krem bilan.",
-              "sizes":[("2x-Katta",37000),("Katta",25000),("O'rtacha",17000),("Kichkina",14000)]},
+              "sizes":[("2x-Katta",30000),("Katta",25000),("O'rtacha",17000),("Kichkina",14000)]},
     "hotlet":{"name":"🥪 Hot-Let","desc":"Go'sht taxtacha, pishloq va salat bargi bilan.",
               "sizes":[("Katta",30000),("Kichkina",22000)]},
     "burger":{"name":"🍔 Gamburger","desc":"Sertane, mol go'shti va eritilgan pishloq bilan.",
